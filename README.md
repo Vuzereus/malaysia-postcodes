@@ -2,7 +2,7 @@
 
 Welcome to the Malaysia Postcodes repository! This resource is designed to support application development by providing up-to-date information on postcodes, cities, and states in Malaysia.
 
-## Data Source
+### Data Source
 
 We've sourced our data from [MalaysiaPostcode](https://malaysiapostcode.com/download), specifically the following files:
 
@@ -11,7 +11,7 @@ We've sourced our data from [MalaysiaPostcode](https://malaysiapostcode.com/down
 
 These files are available under the [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/).
 
-## Data Organization
+### Data Organization
 
 To make navigation easier, we've organized the data by state. Explore the individual state files for a comprehensive breakdown of postcodes.
 
@@ -31,6 +31,7 @@ To make navigation easier, we've organized the data by state. Explore the indivi
 - [Wilayah Persekutuan Kuala Lumpur](states/Wilayah_Persekutuan_Kuala_Lumpur.csv) (50000 - 60000)
 - [Wilayah Persekutuan Labuan](states/Wilayah_Persekutuan_Labuan.csv) (87000 - 87033)
 - [Wilayah Persekutuan Putrajaya](states/Wilayah_Persekutuan_Putrajaya.csv) (62000 - 62988)
-# Licensing
+
+### Licensing
 
 This repository and its data are governed by the [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/). Feel free to use the information in accordance with the specified license. If you have any questions or need further assistance, don't hesitate to reach out. Happy coding!
