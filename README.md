@@ -9,8 +9,6 @@ We've sourced our data from [MalaysiaPostcode](https://malaysiapostcode.com/down
 - [Malaysia_Postcode-states.csv](Malaysia_Postcode-states.csv)
 - [Malaysia_Postcode-postcodes.csv](Malaysia_Postcode-postcodes.csv)
 
-These files are available under the [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/).
-
 ### Data Organization
 
 To make navigation easier, we've organized the data by state. Explore the individual state files for a comprehensive breakdown of postcodes.
@@ -34,4 +32,4 @@ To make navigation easier, we've organized the data by state. Explore the indivi
 
 ### Licensing
 
-This repository and its data are governed by the [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/). Feel free to use the information in accordance with the specified license. If you have any questions or need further assistance, don't hesitate to reach out. Happy coding!
+This repository and its data are governed by the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.en). Feel free to use the information in accordance with the specified license. If you have any questions or need further assistance, don't hesitate to reach out. Happy coding!
